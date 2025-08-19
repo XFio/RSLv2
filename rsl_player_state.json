@@ -1,0 +1,313 @@
+{
+  "player_profile": {
+    "account_name": "",
+    "player_level": 0,
+    "player_power": 0,
+    "days_played": 0,
+    "spending_level": "f2p|low_spender|moderate_spender|whale",
+    "play_style": "casual|daily_player|competitive|hardcore",
+    "daily_play_time_hours": 0,
+    "clan_boss_difficulty": "easy|hard|brutal|nightmare|ultra_nightmare",
+    "arena_tier": "bronze|silver|gold|platinum",
+    "current_focus": {
+      "primary": "",
+      "secondary": "",
+      "struggling_with": []
+    }
+  },
+  "progression_status": {
+    "campaign": {
+      "normal": "not_started|in_progress|completed",
+      "hard": "not_started|in_progress|completed",
+      "brutal": "not_started|in_progress|completed",
+      "nightmare": "not_started|in_progress|completed"
+    },
+    "dungeons": {
+      "dragon": {
+        "highest_stage": 0,
+        "farm_stage": 0,
+        "average_time": "",
+        "success_rate": 0
+      },
+      "spider": {
+        "highest_stage": 0,
+        "farm_stage": 0,
+        "average_time": "",
+        "success_rate": 0
+      },
+      "fire_knight": {
+        "highest_stage": 0,
+        "farm_stage": 0,
+        "average_time": "",
+        "success_rate": 0
+      },
+      "ice_golem": {
+        "highest_stage": 0,
+        "farm_stage": 0,
+        "average_time": "",
+        "success_rate": 0
+      }
+    },
+    "doom_tower": {
+      "normal": {
+        "current_floor": 0,
+        "highest_floor": 0,
+        "secret_rooms_completed": []
+      },
+      "hard": {
+        "current_floor": 0,
+        "highest_floor": 0,
+        "secret_rooms_completed": []
+      }
+    },
+    "faction_wars": {
+      "completed_factions": [],
+      "stars_earned": {},
+      "struggling_factions": []
+    },
+    "hydra": {
+      "normal": {
+        "weekly_damage": 0,
+        "chest_level": "none|basic|advanced|ultimate|mythic"
+      },
+      "hard": {
+        "weekly_damage": 0,
+        "chest_level": "none|basic|advanced|ultimate|mythic"
+      },
+      "brutal": {
+        "weekly_damage": 0,
+        "chest_level": "none|basic|advanced|ultimate|mythic"
+      },
+      "nightmare": {
+        "weekly_damage": 0,
+        "chest_level": "none|basic|advanced|ultimate|mythic"
+      }
+    }
+  },
+  "current_resources": {
+    "silver": 0,
+    "gems": 0,
+    "energy": 0,
+    "clan_boss_keys": 0,
+    "arena_tokens": 0,
+    "tag_arena_tokens": 0,
+    "shards": {
+      "mystery": 0,
+      "ancient": 0,
+      "void": 0,
+      "sacred": 0,
+      "primal": 0
+    },
+    "books": {
+      "legendary": 0,
+      "epic": 0,
+      "rare": 0
+    },
+    "potions": {
+      "magic": {
+        "lesser": 0,
+        "greater": 0,
+        "superior": 0
+      },
+      "force": {
+        "lesser": 0,
+        "greater": 0,
+        "superior": 0
+      },
+      "spirit": {
+        "lesser": 0,
+        "greater": 0,
+        "superior": 0
+      },
+      "void": {
+        "lesser": 0,
+        "greater": 0,
+        "superior": 0
+      }
+    },
+    "chickens": {
+      "rank_6": 0,
+      "rank_5": 0,
+      "rank_4": 0,
+      "rank_3": 0
+    },
+    "glyphs": {
+      "rank_1": 0,
+      "rank_2": 0,
+      "rank_3": 0,
+      "rank_4": 0,
+      "rank_5": 0,
+      "rank_6": 0
+    }
+  },
+  "champion_roster": {
+    "total_champions": 0,
+    "legendary_count": 0,
+    "epic_count": 0,
+    "rare_count": 0,
+    "champions": [
+      {
+        "champion_name": "",
+        "rarity": "rare|epic|legendary",
+        "faction": "",
+        "current_rank": 1,
+        "current_level": 1,
+        "ascension_level": 0,
+        "skills_booked": {
+          "a1": 0,
+          "a2": 0,
+          "a3": 0,
+          "a4": 0
+        },
+        "masteries": {
+          "offense": 0,
+          "defense": 0,
+          "support": 0,
+          "total": 0,
+          "tier_6_mastery": ""
+        },
+        "great_hall_bonuses": {
+          "hp": 0,
+          "attack": 0,
+          "defense": 0,
+          "speed": 0,
+          "crit_damage": 0,
+          "resist": 0,
+          "accuracy": 0
+        },
+        "current_gear": {
+          "sets": [],
+          "total_speed": 0,
+          "total_accuracy": 0,
+          "total_resistance": 0,
+          "crit_rate": 0,
+          "crit_damage": 0,
+          "hp": 0,
+          "defense": 0,
+          "attack": 0
+        },
+        "current_use": {
+          "clan_boss": false,
+          "arena_offense": false,
+          "arena_defense": false,
+          "dungeons": [],
+          "faction_wars": false,
+          "doom_tower": false,
+          "hydra": false
+        },
+        "investment_status": {
+          "fully_booked": false,
+          "fully_mastered": false,
+          "fully_ascended": false,
+          "gear_quality": "poor|average|good|excellent|perfect",
+          "priority_for_upgrade": "none|low|medium|high|urgent"
+        }
+      }
+    ]
+  },
+  "current_teams": {
+    "clan_boss": {
+      "team_composition": [],
+      "average_damage": {
+        "per_key": 0,
+        "difficulty": ""
+      },
+      "speed_tuned": false,
+      "team_type": "standard|unkillable|counter_attack|ally_protect"
+    },
+    "arena_offense": {
+      "team_composition": [],
+      "win_rate": 0,
+      "typical_opponents": "",
+      "strategy": "speed_nuke|go_second|tank"
+    },
+    "arena_defense": {
+      "team_composition": [],
+      "win_rate": 0,
+      "weekly_attacks": 0,
+      "successful_defenses": 0
+    },
+    "dungeon_teams": {
+      "dragon": {
+        "team": [],
+        "stage": 0,
+        "average_time": "",
+        "success_rate": 0
+      },
+      "spider": {
+        "team": [],
+        "stage": 0,
+        "average_time": "",
+        "success_rate": 0
+      },
+      "fire_knight": {
+        "team": [],
+        "stage": 0,
+        "average_time": "",
+        "success_rate": 0
+      },
+      "ice_golem": {
+        "team": [],
+        "stage": 0,
+        "average_time": "",
+        "success_rate": 0
+      }
+    },
+    "hydra_teams": [
+      {
+        "team_name": "Team 1",
+        "composition": [],
+        "difficulty": "",
+        "average_damage": 0,
+        "strategy": ""
+      }
+    ]
+  },
+  "goals_and_priorities": {
+    "immediate_goals": {
+      "next_7_days": [],
+      "blocking_issues": [],
+      "resource_bottlenecks": []
+    },
+    "short_term_goals": {
+      "next_30_days": [],
+      "champions_to_build": [],
+      "content_to_clear": []
+    },
+    "long_term_goals": {
+      "next_3_months": [],
+      "dream_teams": [],
+      "missing_key_champions": []
+    },
+    "questions_for_advisor": []
+  },
+  "constraints_and_preferences": {
+    "time_constraints": {
+      "can_manual_battles": false,
+      "auto_only": false,
+      "speed_over_reliability": false
+    },
+    "resource_constraints": {
+      "f2p_only": false,
+      "limited_books": false,
+      "limited_chickens": false
+    },
+    "playstyle_preferences": {
+      "favorite_champions": [],
+      "disliked_strategies": [],
+      "preferred_content": []
+    }
+  },
+  "analysis_requests": {
+    "specific_questions": [],
+    "comparison_requests": [],
+    "theory_crafting": [],
+    "what_if_scenarios": []
+  },
+  "metadata": {
+    "date_created": "",
+    "last_updated": "",
+    "data_source": "manual|rsl_helper|game_screenshot|other",
+    "notes": ""
+  }
+}
